@@ -1,6 +1,7 @@
 ##
+<div aling="center">
 <img src="https://media.tenor.com/jt0Y7YbUbtwAAAAM/anubis-dance.gif" width="200"/>
-
+</div>
 
 ## Contatos:
 <div>
