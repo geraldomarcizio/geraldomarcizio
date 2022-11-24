@@ -1,5 +1,5 @@
 ##
-<img src="https://media.tenor.com/jt0Y7YbUbtwAAAAM/anubis-dance.gif" widtch="200"/>
+<img src="https://media.tenor.com/jt0Y7YbUbtwAAAAM/anubis-dance.gif"width="200"/>
 
 
 ## Contatos:
