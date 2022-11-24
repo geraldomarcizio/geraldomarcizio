@@ -1,6 +1,6 @@
 ##
 <div aling="center">
-<img src="https://media.tenor.com/jt0Y7YbUbtwAAAAM/anubis-dance.gif" width="200"/>
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/a619b567650011.5b4151793b57b.gif"/>
 </div>
 
 ## Contatos:
